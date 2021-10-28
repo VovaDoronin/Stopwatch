@@ -1,0 +1,24 @@
+.button {
+    padding: 10px 15px;
+    margin-right: 10px;
+}
+
+.button:nth-child(4) {
+    margin-right: 0;
+}
+
+.button_bg-col-green {
+    background-color: green;
+}
+
+.button_bg-col-red {
+    background-color: red;
+}
+
+.button_bg-col-grey {
+    background-color: grey;
+}
+
+.button_bg-col-yellow {
+    background-color: yellow;
+}

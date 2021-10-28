@@ -1,0 +1,20 @@
+.timer {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.time {
+    font-size: 33px;
+    font-weight: 700;
+    background-color: blue;
+    border: 1px solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+}
+
+.time:nth-child(2) {
+    margin: 0 10px;
+}
